@@ -9,14 +9,17 @@ body {
   display: flex;
   flex-direction: column;
   font-family: "Poppins", sans-serif;
-  background-color: black;
-  color: white;
+  background-color: #edf2f4;
+  color: #2b2d42;
   height: 100vh;
   gap: 25px;
 }
 header {
   text-align: center;
   padding: 25px;
+}
+img {
+  width: 100px;
 }
 input {
   border: none;
@@ -30,4 +33,5 @@ main {
 }
 footer {
   text-align: center;
+  background-color: #2b2d42;
 }
